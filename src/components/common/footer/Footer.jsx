@@ -1,5 +1,4 @@
 import React from "react";
-import { blog } from "../../../dummydata";
 import "./footer.css";
 
 const Footer = () => {
@@ -19,8 +18,8 @@ const Footer = () => {
       </section>
       <div className="legal">
         <p>
-          Copyright ©2024 All rights reserved | This template is made by
-          Aayush/NeedlessCat
+          Copyright ©2024 All rights reserved | It comes under
+          Orange_Health@team
         </p>
       </div>
     </>
